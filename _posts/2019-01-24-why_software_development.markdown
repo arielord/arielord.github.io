@@ -6,7 +6,7 @@ permalink:  why_software_development
 ---
 
 
-Why software development? The answer for me personally is actually quite simple, I sort of just "stumbled" into it. The real question is, how did I happen to stumble and get absorbed into this beautiful world of coding?
+Why software development? The answer for me personally is actually quite simple, I sort of just "stumbled" into it and enjoyed it. The real question is, how did I happen to stumble and get absorbed into this beautiful world of coding?
 
 It all began shortly before my first semester of university. I've already had countless nights where I would just stay up till dawn looking at different majors and their respective career prospects. I was unable to make up my mind so my research continued. It was one of those nights I was still going at it, but I needed a break. There I went and started up a game on my computer while still leisurely continuing my research on the my second screen. That's when it hit me, the world is actually being ran by software. Still amazes me now how long it took to for me to figure that out, but that night, it just all made sense. Had a browser open on one screen, a game on another, and then looked down on my phone with it's multitude of applications. At that point, the only thought left in my head was "Our world is all software". At this point I knew absolutely nothing about software development and made a little pact with myself to delve into it.
 
