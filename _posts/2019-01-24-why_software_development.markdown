@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Why Software Development?"
-date:       2019-01-24 21:50:29 +0000
+date:       2019-01-24 16:50:30 -0500
 permalink:  why_software_development
 ---
 
@@ -14,4 +14,4 @@ With my little pact in mind I enrolled into some computer science courses throug
 
 Post graduation I felt like I was on top of the world. Attained a versatile degree in mathematics and surprisingly did hold up my end of the bargain of learning about software. Reflecting on my time at university I realized even in my math classes the most satisfying part was being able to get my code to successfully run/compile. It is truly one of the most gratifying things, and if you have ever coded I am pretty sure you know the feeling. With this in mind I was determined to find a job in software development and advance my skill set from scripting to building actual applications.
 
-It was never really my plan to go into software development, wasn't my plan nor did I major in computer science. And that is how i stumbled into software development.
+It was never really my plan to go into software development and it wasn't my plan nor did I major in computer science. Like I said I just continously stumbled into it and I liked it.
