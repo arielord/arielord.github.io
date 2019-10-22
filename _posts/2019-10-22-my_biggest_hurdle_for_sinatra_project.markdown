@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "My Biggest Hurdle For Sinatra Project!"
-date:       2019-10-22 07:54:18 +0000
+title:      "My Biggest Hurdle For Projects!"
+date:       2019-10-22 03:54:19 -0400
 permalink:  my_biggest_hurdle_for_sinatra_project
 ---
 
